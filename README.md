@@ -1,4 +1,4 @@
-# University of Minnesota PhD Thesis Template
+# University of Minnesota PhD/Master Thesis Template
 
 This repository contains an updated version of the UMN PhD Thesis Template based on [agude/UMN-PhD-Thesis-Template](https://github.com/agude/UMN-PhD-Thesis-Template).
 
