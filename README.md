@@ -14,4 +14,4 @@ Most Recently Updated the UMN PhD Thesis Template on 02/27/2025 by:
 3. Ensuring the *Bibliography* appears in the Table of Contents by updating `thesis.tex`.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-You can download the repository to run on VS Code, PyCharm, or Cursor.
+You can download the repository to run on VS Code, PyCharm, or Cursor. `thesis.tex` is the master file.
